@@ -1,0 +1,25 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+    background-color: #fff4e5;
+    color: #493322;
+}
+
+h1, h2 {
+    color: #a34220;
+}
+
+h3 {
+    color: #c45a27;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 10px;
+}
+
+a {
+    color: #a34220;
+}   
